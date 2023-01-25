@@ -28,8 +28,8 @@ python main.py \
 python main.py \
 -i test.nwk \
 -o test.txt \
--t 0.1 \
--m 5
+-t 0.01 \
+-m 2
 
 Leaves processed: 26
 21 leaves were clustered into 2 clusters.
