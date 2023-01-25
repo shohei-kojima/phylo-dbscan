@@ -2,7 +2,7 @@
 
 """
 Author: Shohei Kojima @ RIKEN
-Copyright (c) 2020-2021 RIKEN
+Copyright (c) 2023 RIKEN
 All Rights Reserved
 See file LICENSE for details.
 """
