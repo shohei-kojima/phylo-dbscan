@@ -35,4 +35,4 @@ Leaves processed: 26
 21 leaves were clustered into 2 clusters.
 5 leaves were not clustered.
 ```
-![test_tree](test.pdf)
+![test_tree](https://github.com/shohei-kojima/phylo-dbscan/blob/main/test.pdf)
