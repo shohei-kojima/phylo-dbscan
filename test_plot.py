@@ -52,5 +52,5 @@ for node in t.traverse():
         nstyle['size']=10
         node.set_style(nstyle)
 
-t.render('test.png', w=100, units='mm', tree_style=ts)
+t.render('test.png', w=200, units='mm', tree_style=ts)
 
