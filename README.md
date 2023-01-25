@@ -23,3 +23,16 @@ python main.py \
 -t 0.001 \
 -m 5
 ```
+# Test run
+```
+python main.py \
+-i test.nwk \
+-o test.txt \
+-t 0.1 \
+-m 5
+
+Leaves processed: 26
+21 leaves were clustered into 2 clusters.
+5 leaves were not clustered.
+```
+![test_tree](test.pdf)
