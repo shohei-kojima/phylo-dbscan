@@ -16,7 +16,7 @@ Python 3.7 or later.
 ```
 
 ```
-# typical usage
+# Typical usage
 python main.py \
 -i file.nwk \
 -o clustering_result.txt \
@@ -32,7 +32,7 @@ python main.py \
 -m 2
 
 Leaves processed: 26
-21 leaves were clustered into 2 clusters.
+21 leaves were clustered into 5 clusters.
 5 leaves were not clustered.
 ```
 ![test_tree](https://github.com/shohei-kojima/phylo-dbscan/blob/main/test.png)
